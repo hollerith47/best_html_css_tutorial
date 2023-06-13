@@ -177,3 +177,10 @@ selector:hover{
     box-shadow: 0 5px 15px rgba(0,0,0,.2);
 }
 ```
+
+# very important for choosing colors for projects
+just write color shades on the search engine or
+go directly on https://mdigi.tools/color-shades
+give the man color and you will see other colors variants easily
+
+generate favicon on https://favicon.io

@@ -293,6 +293,7 @@ Navbar
     transition: var(--transition);
 }
 
+
 .nav-link:hover {
     background: var(--clr-primary-light);
     color: var(--clr-primary);
